@@ -12,3 +12,4 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+wget --no-check-certificate http://www.computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson1/volatility-2.3.1.tar.gz
